@@ -14,7 +14,7 @@ Then, to run the game, simply **run the script `game_driver.py` with Python 3**.
 	
 For example:
 
-	Anjanas-MacBook-Air:Sheet6 Anjana$ python3 game_driver.py
+	$ python3 game_driver.py
 
 This will launch the GUI for the game. 
 Use the buttons to navigate, and read the rules to learn how to play.
